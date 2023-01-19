@@ -21,13 +21,13 @@ repositories:
     version: galactic
   ros2-java/ament_java:
     type: git
-    url: https://github.com/ros2-java/ament_java.git
-    version: main
+    url: https://github.com/bluecamel/ament_java.git
+    version: bkd/test
   ros2-java/ros2_java:
     type: git
-    url: https://github.com/ros2-java/ros2_java.git
-    version: main
+    url: https://github.com/bluecamel/ros2_java.git
+    version: bkd/test
   ros2-java/ros2_java_examples:
     type: git
-    url: https://github.com/ros2-java/ros2_java_examples.git
-    version: main
+    url: https://github.com/bluecamel/ros2_java_examples.git
+    version: bkd/test
